@@ -2,7 +2,7 @@
 This repository will contain all theh Data Structure algorithms and the questions that i solve using Java and Python.
 
 # Topics covered in this repository :
-1. Sorting Algorithms
+1. Sorting Algorithms (Quick Sort,Bubble Sort,Insersetion Sort)
 2. 2 pointer/ Sliding Window
 3. Recursion
 4. Back Tracking
