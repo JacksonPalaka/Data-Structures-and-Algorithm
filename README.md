@@ -15,4 +15,4 @@ This repository will contain all theh Data Structure algorithms and the question
 11. Hash Map
 12. Dynamic Programming
 13. Greedy Algorithm
-14. Graph
+14. Graph(BFS and DFS)
