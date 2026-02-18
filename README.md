@@ -17,5 +17,3 @@ This repository will contain all theh Data Structure algorithms and the question
 13. Greedy Algorithm
 14. Graph(BFS and DFS)
 
-
-# Author : Jackson
